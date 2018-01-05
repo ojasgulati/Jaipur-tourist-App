@@ -1,0 +1,46 @@
+<resources>
+    <string name="app_name">Jaipur</string>
+    <string name="dhulandi">Dhulandi Festival (Festival of Colours) is celebrated all over India a day after Holika Dahan and marks the beginning of spring. On this day, everyone play with colours and water and the celebrations can last for the entire day.</string>
+    <string name="gangaur">The Gangaur Festival celebrates the divine bliss of Goddess Parvati. Celebrated for 18 whole days, the Gangaur festival is a long, colourful procession.</string>
+    <string name="sankarat">The Kite Festival is a bright celebration unique to Rajasthan with main celebrations held in Jaipur. If you enjoy kite flying, you should visit either of the two cities on or around 14th January.</string>
+    <string name="teej">Teej festivals celebrate the bounty of nature, arrival of the monsoon, greenery and birds with social activities, rituals and customs. The festivals are dedicated to Parvati, also known as Teej Mata.</string>
+    <string name="hotel_antities">#Airport shuttle	#Business centre	#Car park	#Free WiFi in lobby	#Laundry service	#Outdoor swimming pool	#PC with internet	#Pets allowed	#RestaurantRoom service	#Terrace	#Washing machine	#WiFi in Lobby</string>
+    <string name="akshardham">Akshardham Temple at Vaishali Nagar is among the most popular attractions for tourists visiting Jaipur. The temple, dedicated to the god Narayan, is well-known because of the beautiful architecture that includes magnificent idols, lifelike sculptures and intricate carvings.</string>
+    <string name="digamber">The ancient Digamber Jain temple at Jaipur is in Sanganer 14 km from the city. The principal idol in the Sanghiji Temple is of Lord Adinath in the Padmasan (lotus position) posture. The temple is made of red stone and has attractive carvings. The seven-storied temple has sky-high shikharas (spires) and its inner sanctum is a stone shrine with eight sky-high shikharas.</string>
+    <string name="govind">"The Krishna temple is a rare spire-less temple and houses the idol of Govind Devji that Sawai Jai Singh brought from Vrindavan. The deity, worshipped by the erstwhile royal family, is also revered by the Hindus in Jaipur and nearby areas."</string>
+    <string name="lakshmu">"The Lakshmi-Narayan Temple, also known as the Birla Temple, is a comparatively newer temple built by the Birlas (a noted industrialist family). The temple, constructed entirely of white marble, is home to the deities of Vishnu and his consort Lakshmi."</string>
+    <string name="moti">"Rising from the middle of Jaipur is a small pearl-shaped hill called Moti Doongri. At the top of the hill sits an exotic palace – a replica of a Scottish castle – which is the private property of the royal family. The highlight of Moti Doongri is a famous and auspicious temple of Lord Ganesh located at the foothill."</string>
+    <string name="amber">"Amber, located about 11 kilometres from Jaipur, sits amidst picturesque and rugged hills. It incorporates both Rajput and Mughal architecture. Constructed by Raja Man Singh I in the late 16th century and completed by Mirja Raja Jai Singh, the fort is made of red sandstone and white marble."</string>
+    <string name="hawa">"The Palace of Winds was constructed in 1799 by the poet-king Sawai Pratap Singh. The five-storied structure is made of pink sandstone and has 356 intricately carved jharokhas (windows). It was designed for the women of the royal family to sit in privacy while observing life on the street."</string>
+    <string name="jaigarh">"Of the three hilltop forts that overlook the city of Jaipur, Jaigarh is perhaps the most magnificent of them all. About 15 kilometres from Jaipur, it was built by Sawai Jai Singh II sometime in the early 18th century amidst the arid, rocky and thorn-scrub covered hills. Despite its ancient construction, it still retains most of its imposing citadel appearance. Visitors can see the world’s largest canon – Jaiban, at the fort."</string>
+    <string name="city_palace">"The City Palace is a splendid example of the foresight that Maharaja Sawai Jai Singh II had. As the founder of Jaipur, he took pains to create a magnificent walled city that encloses marvels such as the City Palace. The palace is a beautiful blend of Mughal and Rajput styles of architecture. The previous royal family continues to reside in one section of the palace. Located within the walls of the City Palace, Chandra Mahal is a seven-storeyed tower. However, the ground and first floors have now been given over for the Maharaja Sawai Man Singh II Museum."</string>
+    <string name="jantar">"The Jantar Mantar in Jaipur is considered to be the largest of the five astronomical observatories built by Maharaja Sawai Jai Singh II, the founder of Jaipur. It contains fourteen geometric devices, designed to measure time, track celestial bodies and observe the orbits of the planets around the sun."</string>
+    <string name="jal_mahal">"One of the most wonderful sights in Jaipur is the beautiful Jal Mahal or Lake Palace. The light, sand coloured stone walls and the deep blue of the water make for a wonderful contrast. The palace appears to float in the centre of Man Sagar Lake, where its magnificent exteriors can be enjoyed by tourists."</string>
+    <string name="nargahar">"The northern frontier of Jaipur is fortified by Nahargarh Fort. Situated on a rough crest of the Aravalli range, the fort, which literally means ‘abode of the tigers’, was built in 1734 by Jai Singh to further defend Amber. Later, in 1868, the fort was extended to its present size."</string>
+    <string name="akshardham_title">"#1 akshardham temple"</string>
+    <string name="digamber_title">"#2 DIGAMBER JAIN MANDIR"</string>
+    <string name="goving_title">"#3 Govind Devji Temple"</string>
+    <string name="lakshmi_title">"#4 LAKSHMI NARAYAN TEMPLE"</string>
+    <string name="moti_title">"#5 MOTI DOONGRI"</string>
+    <string name="jas_title">"#1 JAS VILAS"</string>
+    <string name="oberio_title">"#4 Oberio"</string>
+    <string name="rambagh_title">"#2 RAMBAGH"</string>
+    <string name="heritage_title">"#3 ROYAL HERITAGE HAVELI"</string>
+    <string name="duhlandi_title">"#1 DHULANDI"</string>
+    <string name="teej_title">"#4 TEEJ"</string>
+    <string name="sankarat_title">"#3 Sankrant"</string>
+    <string name="ganguar_title">"#2 GANGAUR"</string>
+    <string name="amber_ttile">"#1 AMBER Fort"</string>
+    <string name="hawa_title">"#2 HAWA MAHAL"</string>
+    <string name="jaigarh_title">"#3 JAIGARH FORT"</string>
+    <string name="city_palace_title">"#4 CITY PALACE"</string>
+    <string name="jantar_title">"#5 jantar mantar"</string>
+    <string name="jal_mahal_title">"#6 JAl MAHAL"</string>
+    <string name="site">Sites</string>
+    <string name="tempels">Temples</string>
+    <string name="festival">Festivals</string>
+    <string name="Hotel">Hotels</string>
+    <string name="narghar_title">Narghar Fort</string>
+
+
+</resources>
